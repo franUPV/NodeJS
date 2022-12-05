@@ -16,3 +16,4 @@ function solveRect(l,b){
 solveRect(2,4);
 solveRect(1,6);
 solveRect(-2,3);
+solveRect(-2,3);
